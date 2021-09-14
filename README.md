@@ -3,7 +3,7 @@ README
 Repository for:
 Wieczynski, D.J., P. Singla, A. Doan, A. Singleton, Z. Han,  S. Votzke, A. Yammine, & J.P. Gibert. Linking species traits and demography to explain complex temperature responses across levels of organization. (In press, Proceedings of the National Academy of Sciences)
 
-Code (/Code):
+Code:
 1) Main data analysis (PNAS_Wieczynski_etal_2021_MainAnalysis.R)   
     a. Analysis of all experimental data (density dependence assays, TPC assays, and associated statistical analyses)  
     b. TPC predictions using traits as inputs  
@@ -13,7 +13,7 @@ Code (/Code):
     a. Calculate equilibrium densities across temperatures using both empirical and predicted TPCs while also varying model parameters.    
     b. Generate community network diagrams.  
 
-Data (/Data):  
+Data (/data):  
 1) Raw empirical data.    
     a. Density dependence assays (Demography.csv)    
     b. TPC assays (TPCs.csv).    
@@ -34,7 +34,7 @@ Data (/Data):
     b. Output from large-run model results used in Figure (model_rawdata_large_empiricalTPCs.csv & model_rawdata_large_predictedTPCs.csv).    
     Note: Large runs are computationally intensive (taking several hours on a typical personal computer).    
 
-Graphics (/Graphics).  
+Graphics (/graphics).  
 1) Raw graphics outputs for figures.   
 
 
