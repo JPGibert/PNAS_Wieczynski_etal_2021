@@ -32,7 +32,7 @@ Data (/data):
 4) Community model output data  
     a. Output from small-run model results used in Figures 5/S4 A & E-G (model_rawdata_small.csv)  
     b. Output from large-run model results used in Figure (model_rawdata_large_empiricalTPCs.csv & model_rawdata_large_predictedTPCs.csv)  
-    Note: Large runs are computationally intensive (taking severazl hours on a typical personal computer)  
+    Note: Large runs are computationally intensive (taking several hours on a typical personal computer)  
 5) All raw graphics outputs for figures (/graphics)  
 
 
