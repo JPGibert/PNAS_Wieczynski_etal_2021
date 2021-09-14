@@ -3,17 +3,17 @@ README
 Repository for:
 Wieczynski, D.J., P. Singla, A. Doan, A. Singleton, Z. Han,  S. Votzke, A. Yammine, & J.P. Gibert. Linking species traits and demography to explain complex temperature responses across levels of organization. (In press, Proceedings of the National Academy of Sciences)
 
-Code:
+Code (/Code):
 1) Main data analysis (PNAS_Wieczynski_etal_2021_MainAnalysis.R)   
     a. Analysis of all experimental data (density dependence assays, TPC assays, and associated statistical analyses)  
     b. TPC predictions using traits as inputs  
     c. Import and analyze model results  
-    d. Generate figures for both empirical and model results  
+    d. Generate raw figure graphics for both empirical and model results  
 2) Community model (PNAS_Wieczynski_etal_2021_CommunityModel.nb)  
     a. Calculate equilibrium densities across temperatures using both empirical and predicted TPCs while also varying model parameters  
     b. Generate community network diagrams
 
-Data (/data):
+Data (/Data):
 1) Raw empirical data  
     a. Density dependence assays (Demography.csv)  
     b. TPC assays (TPCs.csv)  
@@ -33,7 +33,9 @@ Data (/data):
     a. Output from small-run model results used in Figures 5/S4 A & E-G (model_rawdata_small.csv)  
     b. Output from large-run model results used in Figure (model_rawdata_large_empiricalTPCs.csv & model_rawdata_large_predictedTPCs.csv)  
     Note: Large runs are computationally intensive (taking several hours on a typical personal computer)  
-5) All raw graphics outputs for figures (/graphics)  
+
+Graphics (/Graphics)
+1) Raw graphics outputs for figures 
 
 
 Funding for this project: JPG’s Duke University startup funds and a U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research, Genomic Science Program under Award Number DE-SC0020362.
