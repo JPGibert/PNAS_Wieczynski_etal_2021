@@ -4,7 +4,7 @@ Repository for:
 Wieczynski, D.J., P. Singla, A. Doan, A. Singleton, Z. Han,  S. Votzke, A. Yammine, & J.P. Gibert. Linking species traits and demography to explain complex temperature responses across levels of organization. (In press, Proceedings of the National Academy of Sciences)
 
 Code:
-1) Main data analysis (PNAS_Wieczynski_etal_2021_MainAnalysis.R). 
+1) Main data analysis (PNAS_Wieczynski_etal_2021_MainAnalysis.R).   
     a. Analysis of all experimental data (density dependence assays, TPC assays, and associated statistical analyses)
     b. TPC predictions using traits as inputs
     c. Import and analyze model results
