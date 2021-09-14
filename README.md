@@ -5,10 +5,10 @@ Wieczynski, D.J., P. Singla, A. Doan, A. Singleton, Z. Han,  S. Votzke, A. Yammi
 
 Code:
 1) Main data analysis (PNAS_Wieczynski_etal_2021_MainAnalysis.R).   
-    a. Analysis of all experimental data (density dependence assays, TPC assays, and associated statistical analyses)
-    b. TPC predictions using traits as inputs
-    c. Import and analyze model results
-    d. Generate figures for both empirical and model results
+    a. Analysis of all experimental data (density dependence assays, TPC assays, and associated statistical analyses).  
+    b. TPC predictions using traits as inputs.  
+    c. Import and analyze model results.  
+    d. Generate figures for both empirical and model results.  
 2) Community model (PNAS_Wieczynski_etal_2021_CommunityModel.nb)
     a. Calculate equilibrium densities across temperatures using both empirical and predicted TPCs while also varying model parameters
     b. Generate community network diagrams
